@@ -22,10 +22,16 @@ standard](https://www.gnu.org/prep/standards/html_node/Errors.html).
 
 ## Preprocessor Errors
 
+TODO
+
 ## Compiler Errors
 
 Read about [Compiler errors](cc-errors).
 
 ## Assembler Errors
 
+TODO
+
 ## Linker Errors
+
+TODO
