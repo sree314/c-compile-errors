@@ -11,3 +11,21 @@ examples that will trigger errors at specific stages so we can
 recognize them and fix them.
 
 
+## Decoding Errors
+
+The compiler toolchain we are using is produced by the [GNU
+project](GNU project). Most GNU tools follow the [GNU Coding
+Standards](https://www.gnu.org/prep/standards/), and the format of
+errors produced by GNU compilers follow a [common
+standard](https://www.gnu.org/prep/standards/html_node/Errors.html).
+
+
+## Preprocessor Errors
+
+## Compiler Errors
+
+Read about [Compiler errors](cc-errors).
+
+## Assembler Errors
+
+## Linker Errors
